@@ -34,8 +34,7 @@ const App = () => {
         </Layout>
         <div className="footer">
           <Typography.Title level={5} style={{ color: "white", textAlign: "center" }}>
-            CryptoFeed <br />
-            All rights reserved
+            CryptoFeed <br />A Luke Ryan project, with thanks to Javascript Mastery 🚀
           </Typography.Title>
           <Space>
             <Link to="/">Home</Link>
